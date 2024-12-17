@@ -3,5 +3,5 @@
 <br>
 ![깃허브 커밋 스택](https://streak-stats.demolab.com?user=MinwooRowan&theme=transparent&locale=ko)]
 
-<br>
+
 ![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=MinwooRowan&theme=react-dark)
